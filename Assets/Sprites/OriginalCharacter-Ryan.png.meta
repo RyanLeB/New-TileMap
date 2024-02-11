@@ -124,8 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48c410cf1e3166a48a5e4e858712ced9
-      internalID: -1342744611
+      spriteID: 36bbddce249c6684b9d92b146ba483da
+      internalID: -1747347996
       vertices: []
       indices: 
       edges: []
@@ -145,8 +145,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8386de90f75b6624aa85af888bec3ff1
-      internalID: 377035813
+      spriteID: 38eff2c210bb5324ba0b68325f30710b
+      internalID: -457767692
       vertices: []
       indices: 
       edges: []
@@ -166,8 +166,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff3d3e08b0fa99a4d905767095d32207
-      internalID: -664340456
+      spriteID: 8ea6a53ab356e7c47bfbc1be101b53e5
+      internalID: 2032440033
       vertices: []
       indices: 
       edges: []
@@ -187,8 +187,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d988a5820b1e0e4ab6f4c46a882ed4e
-      internalID: -1883297106
+      spriteID: c1666aae5de768b4686f6ad370e7dbff
+      internalID: -565394816
       vertices: []
       indices: 
       edges: []
@@ -197,8 +197,8 @@ TextureImporter:
       name: OriginalCharacter-Ryan_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 192
+        x: 128
+        y: 224
         width: 32
         height: 32
       alignment: 0
@@ -208,8 +208,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d815b024e5a2e674ca9714243eb8e22c
-      internalID: 1436533784
+      spriteID: 9db743292f3afda43bd9611293bec55d
+      internalID: -1400291103
       vertices: []
       indices: 
       edges: []
@@ -218,7 +218,7 @@ TextureImporter:
       name: OriginalCharacter-Ryan_5
       rect:
         serializedVersion: 2
-        x: 32
+        x: 0
         y: 192
         width: 32
         height: 32
@@ -229,8 +229,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8de9834cd06b42449ea71332bf380f1
-      internalID: -531548938
+      spriteID: 7f1dd442e7d172c409b6c1f7e02f1349
+      internalID: 1107657699
       vertices: []
       indices: 
       edges: []
@@ -239,7 +239,7 @@ TextureImporter:
       name: OriginalCharacter-Ryan_6
       rect:
         serializedVersion: 2
-        x: 64
+        x: 32
         y: 192
         width: 32
         height: 32
@@ -250,8 +250,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 399e3f189b11a9e4592a69822480bedc
-      internalID: -542116667
+      spriteID: e70ee80c596b9e742a35b78a3b761f4d
+      internalID: 797941954
       vertices: []
       indices: 
       edges: []
@@ -260,6 +260,27 @@ TextureImporter:
       name: OriginalCharacter-Ryan_7
       rect:
         serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c8bd24304bd2049b9b8941b6674ac4
+      internalID: 1224187873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OriginalCharacter-Ryan_8
+      rect:
+        serializedVersion: 2
         x: 96
         y: 192
         width: 32
@@ -271,29 +292,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c80d5ba89cee354784d75bbd3b37ddc
-      internalID: -1379183178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: OriginalCharacter-Ryan_8
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 160
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 961995a44192c764eb0befd81011b6b7
-      internalID: -1230189354
+      spriteID: 9591f036eb4fb364ab5e97fabfcfca23
+      internalID: -1749413638
       vertices: []
       indices: 
       edges: []
@@ -302,6 +302,48 @@ TextureImporter:
       name: OriginalCharacter-Ryan_9
       rect:
         serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc272b765874b8145955345216ed6b10
+      internalID: 1276059313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OriginalCharacter-Ryan_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77af4f33acad04f419c81d007642eb29
+      internalID: -2075548981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OriginalCharacter-Ryan_11
+      rect:
+        serializedVersion: 2
         x: 32
         y: 160
         width: 32
@@ -313,14 +355,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87f691878140e974a987f8ee2b3fcded
-      internalID: -1140214688
+      spriteID: 5029b0cc0708a5b44b5475e0435cc75a
+      internalID: 1398668417
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: OriginalCharacter-Ryan_10
+      name: OriginalCharacter-Ryan_12
       rect:
         serializedVersion: 2
         x: 64
@@ -334,14 +376,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7df826880239bc14da34f0d8c70b26a3
-      internalID: -1885280762
+      spriteID: 6d17e4dcdf8ce0843af98a0dec5f2464
+      internalID: -1592573094
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: OriginalCharacter-Ryan_11
+      name: OriginalCharacter-Ryan_13
       rect:
         serializedVersion: 2
         x: 96
@@ -355,14 +397,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8a761b8ee398f646b77232f9f2aefcf
-      internalID: -46282225
+      spriteID: 779f05095dee9af469c2efc8776e702d
+      internalID: 574281319
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: OriginalCharacter-Ryan_12
+      name: OriginalCharacter-Ryan_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff5f7185250914489ef0480ed5c2e7a
+      internalID: -1374888280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OriginalCharacter-Ryan_15
       rect:
         serializedVersion: 2
         x: 0
@@ -376,14 +439,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1df11bdff6349df46a8e8a4613bb37fc
-      internalID: 81455181
+      spriteID: deeebf1135116f74b9978b17eb34dbd1
+      internalID: 877163723
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: OriginalCharacter-Ryan_13
+      name: OriginalCharacter-Ryan_16
       rect:
         serializedVersion: 2
         x: 32
@@ -397,14 +460,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0a4480fe6a2a4f41acbe0a6306fe86e
-      internalID: 1891081990
+      spriteID: c6f2e48de18ede240b092e17c25cd27b
+      internalID: -2096350482
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: OriginalCharacter-Ryan_14
+      name: OriginalCharacter-Ryan_17
       rect:
         serializedVersion: 2
         x: 64
@@ -418,14 +481,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63fc3b8f5818b224aaabcd5ca3b93c15
-      internalID: 1234832747
+      spriteID: f6ac86f5ece883a4087fdc26254792b6
+      internalID: -529395289
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: OriginalCharacter-Ryan_15
+      name: OriginalCharacter-Ryan_18
       rect:
         serializedVersion: 2
         x: 96
@@ -439,8 +502,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07fbbcbc8b6c3bb4ca9161dd5d8203a1
-      internalID: -1752621535
+      spriteID: d80b2bb02d5597840af35832e7ed32ed
+      internalID: 564992109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OriginalCharacter-Ryan_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adbfdf3fca34104989e08cf16069a34
+      internalID: 1938130869
       vertices: []
       indices: 
       edges: []
@@ -456,22 +540,26 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      OriginalCharacter-Ryan_0: -1342744611
-      OriginalCharacter-Ryan_1: 377035813
-      OriginalCharacter-Ryan_10: -1885280762
-      OriginalCharacter-Ryan_11: -46282225
-      OriginalCharacter-Ryan_12: 81455181
-      OriginalCharacter-Ryan_13: 1891081990
-      OriginalCharacter-Ryan_14: 1234832747
-      OriginalCharacter-Ryan_15: -1752621535
-      OriginalCharacter-Ryan_2: -664340456
-      OriginalCharacter-Ryan_3: -1883297106
-      OriginalCharacter-Ryan_4: 1436533784
-      OriginalCharacter-Ryan_5: -531548938
-      OriginalCharacter-Ryan_6: -542116667
-      OriginalCharacter-Ryan_7: -1379183178
-      OriginalCharacter-Ryan_8: -1230189354
-      OriginalCharacter-Ryan_9: -1140214688
+      OriginalCharacter-Ryan_0: -1747347996
+      OriginalCharacter-Ryan_1: -457767692
+      OriginalCharacter-Ryan_10: -2075548981
+      OriginalCharacter-Ryan_11: 1398668417
+      OriginalCharacter-Ryan_12: -1592573094
+      OriginalCharacter-Ryan_13: 574281319
+      OriginalCharacter-Ryan_14: -1374888280
+      OriginalCharacter-Ryan_15: 877163723
+      OriginalCharacter-Ryan_16: -2096350482
+      OriginalCharacter-Ryan_17: -529395289
+      OriginalCharacter-Ryan_18: 564992109
+      OriginalCharacter-Ryan_19: 1938130869
+      OriginalCharacter-Ryan_2: 2032440033
+      OriginalCharacter-Ryan_3: -565394816
+      OriginalCharacter-Ryan_4: -1400291103
+      OriginalCharacter-Ryan_5: 1107657699
+      OriginalCharacter-Ryan_6: 797941954
+      OriginalCharacter-Ryan_7: 1224187873
+      OriginalCharacter-Ryan_8: -1749413638
+      OriginalCharacter-Ryan_9: 1276059313
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
